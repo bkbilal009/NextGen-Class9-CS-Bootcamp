@@ -1,0 +1,64 @@
+How is a 'system' defined in the context of computer science?,An organized set of components coordinated to perform a designated function.
+"In a system, how do the various sub-components or subsets interact to achieve an overall function?","They are interlinked, communicate with each other, and interrelate."
+What is the primary focus of 'System Theory' as a branch of science?,It deals with complicated structures in living organisms and their interaction with nature.
+"According to the material, how many major systems operate simultaneously within the human body?",11 systems.
+"System theory helps us understand three aspects of sub-systems: how they operate, how they grow, and how they _____.",Change with the passage of time.
+"Systems exist at all levels, ranging from an atom to a _____.",Cell (and eventually a plant or organism).
+What is a 'non-physical' system example mentioned in the text?,A school admission process or a mathematical formula extraction procedure.
+What is a key requirement for a system to maintain order and avoid a 'mess' during operations?,Discipline through rules and regulations.
+How does a 'simple system' like a mercury thermometer differ from a 'complex system'?,"A simple system performs a singular measurement task, while a complex system involves intricate networks like computers."
+Which human organ acts as the primary information processing system for the body?,The brain.
+What is the primary characteristic of a 'Static Environment'?,It remains unchanged and predictable until the user provides specific input/output triggers.
+Why is a calculator considered part of a 'Static Environment'?,The output is predictable and only appears when a specific command (like the equals button) is pressed.
+How does a 'Dynamic Environment' differ from a Static one regarding predictability?,The output in a dynamic environment is unpredictable and constantly changing.
+What example of a modern technology represents a 'Dynamic Environment' due to its need to adjust to jumps and turns?,A self-driving car.
+"In system properties, what defines a 'Deterministic' system?","A system where the impact and output are known and predictable, such as a torch light."
+What defines a 'Non-deterministic' system?,"A system where results are random and the output is unpredictable, such as weather patterns."
+"In a computer system, with which component does the CPU primarily communicate to retrieve stored data?",Main memory.
+What are the two basic categories of systems based on their origin?,Natural systems and Artificial systems.
+What is the defining trait of a 'Natural System'?,It occurs naturally without human intervention or the ability for humans to interrupt its laws.
+The Solar System and the human food chain are examples of _____ systems.,Natural.
+Why are 'Artificial Systems' created by humans?,To solve specific problems and provide convenience for tasks.
+Which large-scale international organization is cited as an example of a complex Artificial System?,The United Nations (UN).
+What is a 'Physical Natural System' governed by?,"Physical laws (e.g., the interaction of electrons and protons in hydrogen)."
+What governs a 'Chemical Natural System'?,"Laws of chemistry (e.g., hydrogen and oxygen reacting to form water)."
+"Biological systems in living organisms manage processes like growth, reproduction, and _____.",Metabolism.
+What aspects of the human experience are managed by 'Psychological Systems'?,"Emotions, mental processes, and behavior."
+What is the purpose of a 'Knowledge System' within artificial systems?,"To manage, process, and store information to solve problems and make decisions."
+"In a database knowledge system, how is data stored in 'MySQL'?",In the form of tables (Relational).
+"Which branch of engineering focuses on the construction of houses, bridges, and large buildings?",Civil Engineering.
+What is the focus of 'Mechanical Engineering' in the context of modern industry?,Designing and building robots and machinery for factories.
+What is the role of 'Software Engineering' in artificial systems?,"Designing, developing, and maintaining software like online libraries or tracking systems."
+AI systems like Apple's Siri or Amazon's Alexa are designed to detect and respond to _____.,Human speech.
+What is the primary goal of a 'Social System'?,To facilitate interaction between people to achieve basic goals or fulfill requirements.
+Name the two types of government social systems mentioned in the text.,Democratic systems and Authoritarian systems.
+What is the 'Empirical Cycle' used in Natural Science?,"A sequence of Observation, Question, Hypothesis, Experiment, Analysis, and Conclusion."
+"In the Empirical Cycle, what is a 'Hypothesis'?",An estimated answer to the questions raised during observation.
+How does 'Design Science' differ from Natural Science in its approach to problems?,It uses the Regulative Cycle to identify problems and create possible solutions to improve systems.
+What are the stages of the 'Regulative Cycle' in Design Science?,"Problem identification, Solution development, Implementation, and Evaluation."
+Computer Science implements 'Natural Science' to study basic rules such as _____.,Algorithms and data refinement.
+What are 'Interface Components' in a computer system?,Input and output devices.
+What are the three types of 'System Busses' that transfer data within a computer?,"Data bus, Address bus, and Control bus."
+Why is the CPU often called the 'brain' of the computer?,It executes all the commands provided as input.
+What is the role of 'Operating System' software?,It manages data and allows different application softwares to run and perform actions.
+List the four steps of interaction when a user opens a file on a computer.,"1. Input (Mouse/Keyboard), 2. Operating System processing, 3. CPU loading, 4. Output (Monitor display)."
+"In a computer system's environment, what is the role of the 'Power Supply'?",To provide the necessary electricity for components to function correctly.
+Who introduced the 'Von Neumann Architecture' in the 1940s?,John von Neumann.
+What is the key structural feature of the Von Neumann Architecture regarding memory?,Data and program instructions are stored in the same memory.
+What are the four primary components of the Von Neumann Architecture?,"Memory, CPU, Input devices, and Output devices."
+Which CPU sub-unit is responsible for mathematical operations like addition and subtraction?,Arithmetic Logic Unit (ALU).
+Which CPU sub-unit acts as the 'brain' of the CPU by managing instructions?,Control Unit (CU).
+What is the 'Fetch' stage in the Von Neumann working cycle?,The process of getting data or instructions from memory through input devices.
+What happens during the 'Decode' stage of computer processing?,The CPU interprets the instruction to determine the requirements of the task.
+What happens during the 'Execute' stage of the CPU cycle?,The CPU performs the command and sends the outcome to memory or output devices.
+What are the three basic components that make up a 'Computing System'?,"Hardware, Software, and Electricity."
+What is the primary objective of a 'Computer Network'?,To share resources and files efficiently between multiple users and devices.
+Identify three pieces of 'Networking Hardware' used to connect computers.,"Routers, Switches, and Network cables."
+What is a 'LAN' (Local Area Network)?,"A network connecting computers within a small geographical area, like a school or office."
+What is a 'WAN' (Wide Area Network)?,"A network that connects computers across large regions, nations, or even the whole world."
+What is the purpose of the 'TCP/IP' protocol in networking?,To manage data transmission and addressing across the internet.
+Which protocol is used specifically for transferring files between computers?,File Transfer Protocol (FTP).
+"In computer components, what is 'RAM' used for?",Temporary storage of data during processing.
+The 'Program Counter' in the CPU is used to store the _____ of the next instruction.,Address.
+What is an example of an 'Application Software' mentioned in the transcript?,"Chrome, Word, or Games."
+What is the difference between TCP and UDP protocols according to the text?,"TCP is used for data transmission, while UDP is considered less reliable."
