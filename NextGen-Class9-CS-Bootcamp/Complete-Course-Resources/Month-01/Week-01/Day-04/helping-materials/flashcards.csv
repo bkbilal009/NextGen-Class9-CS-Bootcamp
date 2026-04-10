@@ -1,0 +1,60 @@
+What is the base of the Octal number system?,8
+What is the range of digits used in the Octal system?,0 to 7
+The term 'Octa' in the Octal system refers to the number _____.,Eight
+"When solving number system conversions, from which side should place values (powers) be assigned?",The right side
+"In the Octal system, what is the value of the base raised to the power of 0 ($8^{0}$)?",1
+How is the number $157_{8}$ expressed as a sum to convert it to the Decimal system?,$(1 \times 8^{2}) + (5 \times 8^{1}) + (7 \times 8^{0})$
+What is the value of $8^{2}$ in the Octal to Decimal conversion process?,64
+What is the final Decimal value of the Octal number $157_{8}$?,111
+"When converting from the Binary system to the Octal system, how many bits are grouped together?",3 bits
+"In Binary to Octal conversion, what Decimal value does the bit group $011$ represent?",3
+"In Binary to Octal conversion, what Decimal value does the bit group $110$ represent?",6
+Why is the Octal system used in computing despite modern computers not using it directly?,It is useful for compacting binary representations.
+What method is used to convert a Decimal number like 83 into the Octal system?,Successive division by 8 (LCM method) and recording remainders.
+"When converting Decimal to Octal, in what order should the remainders be written to form the final answer?",Bottom to top
+What is the Octal representation of the Decimal number $83_{10}$?,$123_{8}$
+What is the base of the Hexadecimal number system?,16
+How many alphanumeric characters are used in the Hexadecimal system range?,16 (0-9 and A-F)
+"In the Hexadecimal system, what numeric value does the letter 'A' represent?",10
+"In the Hexadecimal system, what numeric value does the letter 'B' represent?",11
+"In the Hexadecimal system, what numeric value does the letter 'C' represent?",12
+"In the Hexadecimal system, what numeric value does the letter 'D' represent?",13
+"In the Hexadecimal system, what numeric value does the letter 'E' represent?",14
+"In the Hexadecimal system, what numeric value does the letter 'F' represent?",15
+What is the result of $16^{2}$ in a Hexadecimal to Decimal conversion?,256
+How is $1A3_{16}$ expanded to convert it into a Decimal value?,$(1 \times 16^{2}) + (10 \times 16^{1}) + (3 \times 16^{0})$
+What is the final Decimal value of the Hexadecimal number $1A3_{16}$?,419
+"When converting from Binary to Hexadecimal, how many bits are grouped to form one Hex digit?",4 bits
+The bit grouping rule for Hexadecimal is based on the fact that 16 is equal to _____.,$2^{4}$
+"In Binary to Hexadecimal conversion, what Hex digit represents the bit group $0010$?",2
+"In Binary to Hexadecimal conversion, what letter represents the bit group representing the value 11?",B
+"In Binary to Hexadecimal conversion, what letter represents the bit group representing the value 13?",D
+What is the first step when converting the Decimal number 2297 to Hexadecimal?,Divide 2297 by 16.
+What is the remainder when the Decimal number 2297 is divided by 16 during Hex conversion?,9
+What is the quotient when the Decimal number 2297 is divided by 16?,143
+"In the conversion of 2297 to Hex, what letter represents the remainder of 15 obtained from dividing 143 by 16?",F
+What is the final Hexadecimal representation of the Decimal number $2297_{10}$?,$8F9_{16}$
+Concept: Positional Number System,A system where the value of a digit depends on its position relative to the base and a power.
+Why must every numeric system conversion for a computer eventually result in Binary?,Because modern computers only understand and read data in Binary form (0s and 1s).
+What does a power of 0 indicate for any base in these number systems?,The value is considered to be 1.
+"In Hexadecimal to Decimal conversion, what is the weight of the third position from the right?",$16^{2}$ (or 256)
+How does the Hexadecimal system handle numbers greater than 9?,It represents them using the letters A through F.
+What is the resulting base when converting $111$ (derived from $157_{8}$) back to the Decimal system?,10
+What bit size is used for 'compact binary representation' in the Octal system?,3-bit groups
+What bit size is used for 'compact binary representation' in the Hexadecimal system?,4-bit groups
+"When using successive division to convert $83_{10}$ to Octal, what is the second quotient obtained?",1
+"When using successive division to convert $83_{10}$ to Octal, what is the first remainder obtained?",3
+What is the term for the number '16' in the context of the Hexadecimal system?,The base (or radix)
+"Which system discussed is described as being the most complex compared to Decimal, Binary, and Octal?",Hexadecimal
+"If a binary sequence is $1101$, its Hexadecimal equivalent is _____.",D
+"If a binary sequence is $1011$, its Hexadecimal equivalent is _____.",B
+True or False: The Octal system is directly used by modern computer hardware.,"False (it is used for compact representation, but the computer reads Binary)."
+What value results from multiplying $16 \times 10$ during the conversion of $1A3_{16}$?,160
+What is the remainder of $143 \div 16$ during Decimal to Hex conversion?,15
+"In number system conversion, the base of the target system is used as a _____ in the multiplication method.",Multiplier (raised to a power)
+What is the highest single-digit value in the Octal system?,7
+What is the highest single-character value in the Hexadecimal system?,F (which equals 15)
+The process of repeatedly dividing a Decimal number to find its equivalent in another base is called _____.,Successive Division (or LCM method)
+How many distinct values can be represented by a single Hexadecimal digit?,16
+"In the Hexadecimal to Decimal conversion of $1A3$, what does the '1' represent in terms of power?",$1 \times 16^{2}$
+Which system uses the largest base among those covered in the lesson?,Hexadecimal
