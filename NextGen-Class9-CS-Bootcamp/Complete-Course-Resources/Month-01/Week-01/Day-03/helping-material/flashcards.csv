@@ -1,0 +1,55 @@
+What is the fundamental basis of all digital systems?,Digital Logic
+Digital logic involves using which number system to represent and manipulate information?,Binary numbers ($0$ and $1$)
+"In electronic devices, what does the binary digit $0$ typically represent?",Off (no electricity or low voltage)
+"In electronic devices, what does the binary digit $1$ typically represent?",On (electricity provided or high voltage)
+"Conventionally, what specific voltage level often refers to binary $1$?",$5V$ (Five Volts)
+Which branch of mathematics relates to logic and symbolic computation using values like True and False?,Boolean Algebra
+"In Boolean Algebra, the value 'True' corresponds to which binary number?",$1$
+"In Boolean Algebra, the value 'False' corresponds to which binary number?",$0$
+What is the purpose of a Boolean logic operation in a computer system?,To perform processing and manipulation of stored binary information.
+How many binary inputs are required for an AND operation?,Two
+How many binary outputs are produced by an AND operation?,One
+Which mathematical symbol is used to represent the AND operation between two variables ($A$ and $B$)?,A dot ($\cdot$)
+"In the expression $x = A \cdot B$, what logic operation is being performed?",AND operation
+Under what condition will an AND operation produce an output of $1$?,Only when both inputs are $1$.
+"If any single input in an AND operation is $0$, what is the resulting output?",$0$
+"AND Operation: If $A = 1$ and $B = 0$, what is $x$?",$0$
+"AND Operation: If $A = 0$ and $B = 1$, what is $x$?",$0$
+"AND Operation: If $A = 0$ and $B = 0$, what is $x$?",$0$
+"AND Operation: If $A = 1$ and $B = 1$, what is $x$?",$1$
+How many binary inputs are required for an OR operation?,Two
+Which symbol is used to represent the OR operation in Boolean algebra?,The plus sign ($+$)
+"In the expression $x = A + B$, what logic operation is being performed?",OR operation
+Under what condition will an OR operation produce an output of $1$?,If at least one of the inputs is $1$.
+When does an OR operation produce an output of $0$?,Only when both inputs are $0$.
+"OR Operation: If $A = 1$ and $B = 0$, what is $x$?",$1$
+"OR Operation: If $A = 0$ and $B = 1$, what is $x$?",$1$
+"OR Operation: If $A = 1$ and $B = 1$, what is $x$?",$1$
+"OR Operation: If $A = 0$ and $B = 0$, what is $x$?",$0$
+Which basic logic operation requires only a single binary input?,NOT operation
+What is the primary function of the NOT operation?,To negate or reverse the input value.
+"If the input to a NOT operation is $1$, what is the output?",$0$
+"If the input to a NOT operation is $0$, what is the output?",$1$
+How many total possibilities exist in a truth table for an operation with two binary inputs?,Four
+What are the physical devices in electronic circuits that implement Boolean operations called?,Logic Gates
+Which specific logic gate implements the AND function?,AND Gate
+Which specific logic gate implements the OR function?,OR Gate
+Which specific logic gate implements the NOT function?,NOT Gate
+What is the visual shape used to represent an AND gate in a circuit diagram?,The shape of a capital letter 'D'.
+How is an OR gate visually represented in a circuit diagram compared to an AND gate?,It has a more triangular or curved shape.
+"In a logic gate diagram, what does a small circle at the output of a gate represent?",Inversion or negation (NOT function).
+What does a NOT gate diagram consist of visually?,A triangle with a small circle at the end.
+"In an AND circuit with two switches, when will the bulb turn on?",Only when both switches are closed (On).
+"In an OR circuit with two switches, when will the bulb turn on?",When either switch (or both) is closed (On).
+Term: Digital Circuit,Definition: An electronic circuit that uses discrete voltage levels (representing $0$ and $1$) to perform logical operations.
+Why is Boolean algebra considered essential for digital circuits?,It provides the basis for the analysis and design of digital systems.
+"When converting a decimal number to binary using the LCM/division method, in what order are the remainders read?",From bottom to top.
+What is the binary representation of the decimal number $25$?,$11001_2$
+Which logic gate is described as having one input and one output that is the opposite of the input?,NOT Gate
+"If a circuit is designed so that a light only turns on when a student has BOTH 'Homework Done' and 'Lesson Learned', which logic gate is being modeled?",AND Gate
+"If a circuit is designed so that a light turns on if a student has EITHER 'Homework Done' OR 'Lesson Learned', which logic gate is being modeled?",OR Gate
+True or False: A logic gate can have multiple outputs.,"False (Basic gates like AND, OR, and NOT produce a single binary output)."
+"In logic gate diagrams, where are the input lines typically drawn?",On the left side of the gate symbol.
+"In logic gate diagrams, where is the output line typically drawn?",On the right side of the gate symbol.
+What logic operation is represented by the notation $\overline{A}$ or a tilde sign before a variable?,NOT operation
+What determines the total number of rows in a logic truth table?,The number of possible input combinations (calculated as $2^n$ where $n$ is the number of inputs).
