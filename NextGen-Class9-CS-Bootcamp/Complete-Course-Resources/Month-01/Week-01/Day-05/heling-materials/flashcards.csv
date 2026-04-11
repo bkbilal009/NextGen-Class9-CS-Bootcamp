@@ -1,0 +1,56 @@
+Which component is known as the 'brain' of the computer?,Central Processing Unit (CPU)
+What are the two main components found within the Central Processing Unit?,Arithmetic Logic Unit (ALU) and Control Unit (CU)
+Which part of the CPU is responsible for performing mathematical computations and logical operations?,Arithmetic Logic Unit (ALU)
+What is the primary function of the Control Unit (CU)?,It governs the activities of the CPU and coordinates the execution of tasks.
+"According to the source, what specific mathematical operations does the CPU perform directly?",Addition and Subtraction
+Definition: Input Device,A peripheral that enables a user to enter data and instructions into a computer system.
+What are two examples of input devices mentioned in the text?,Keyboard and Mouse
+Definition: Output Device,A peripheral used to present or communicate the results of tasks executed by the computer.
+What are two examples of output devices mentioned in the text?,Monitor and Printer
+The _____ is a communication mechanism that facilitates the movement of data between components inside a computer system.,System Bus
+What are the three components that make up a system bus?,"Data Bus, Address Bus, and Control Bus"
+Under what condition is the output of an AND operation equal to $1$?,Only when both inputs are $1$.
+"If one or both inputs of an AND operation are $0$, what is the resulting output?",$0$
+Which logical operation is used for selection where all conditions must be true (such as a username AND password)?,AND Operation
+Under what condition does an OR operation produce an output of $1$?,If at least one of the inputs is $1$.
+Which logical operation is compared to an emergency alarm that can be triggered by either a manual button OR a smoke sensor?,OR Operation
+What is the primary function of a NOT operation?,It negates or inverts the input value.
+What is another name for the NOT gate?,Logic Inverter
+"If the input to a NOT gate is $0$, what is the output?",$1$
+The symbol for an AND gate resembles which letter of the alphabet?,The letter 'D'
+How is the AND operation represented mathematically using variables $A$ and $B$?,$A \cdot B$
+The symbol for an OR gate is described as looking like a _____.,Curved arrow
+How is the OR operation represented mathematically using variables $A$ and $B$?,$A + B$
+What is the visual symbol used to represent a NOT gate?,A triangle with a small bubble at the tip.
+What is the only language that a computer can natively understand?,Binary Language
+Which two digits are used in the binary number system?,$0$ and $1$
+"In the context of computer circuits, what do the binary digits $1$ and $0$ represent respectively?",$1$ represents 'On' and $0$ represents 'Off'.
+What is the base of the Decimal number system?,$10$
+What is the base of the Binary number system?,$2$
+What is the base of the Octal number system?,$8$
+What is the base of the Hexadecimal number system?,$16$
+"In place value notation, computer systems arrange powers starting from which direction?",Right to left
+"What is the starting power used for the rightmost position in any number system (e.g., $10^x$ or $2^x$)?",$0$
+How many binary bits are required to represent a single Octal digit?,$3$
+How many binary bits are required to represent a single Hexadecimal digit?,$4$
+"In the Hexadecimal system, what numerical value does the letter '$A$' represent?",$10$
+"In the Hexadecimal system, what numerical value does the letter '$B$' represent?",$11$
+"In the Hexadecimal system, what numerical value does the letter '$C$' represent?",$12$
+"In the Hexadecimal system, what numerical value does the letter '$D$' represent?",$13$
+"In the Hexadecimal system, what numerical value does the letter '$E$' represent?",$14$
+"In the Hexadecimal system, what numerical value does the letter '$F$' represent?",$15$
+"To convert a Decimal number to Binary, you must repeatedly divide the number by _____.",$2$
+"To convert a Decimal number to Octal, you must repeatedly divide the number by _____.",$8$
+"To convert a Decimal number to Hexadecimal, you must repeatedly divide the number by _____.",$16$
+"When converting from Decimal to another system via division, in what order should the remainders be written to form the final answer?",Reverse order (from the last remainder to the first).
+"During decimal conversion, the division process continues until the quotient becomes _____.",$0$
+Which number system uses digits from $0$ to $7$?,Octal number system
+"In the Hexadecimal system, which characters are used to represent values after the digit $9$?",Letters $A$ through $F$
+Which computer component is responsible for ensuring the proper and timely execution of duties by all other components?,Control Unit (CU)
+What does the CPU execute that is provided by the memory?,Commands/Instructions
+How does a computer perceive a name typed by a user?,It converts the letters into numbers.
+Which specific system bus is responsible for identifying the location in memory where data is being sent or received?,Address Bus
+What is the result of any value $n$ raised to the power of $0$ ($n^0$) in place value calculations?,$1$
+Why are number systems essential in computer science?,"They help the computer understand, store, and process information."
+"In an OR gate, if one input is $0$ and the other is $1$, what is the output?",$1$
+"In an AND gate, if one input is $1$ and the other is $0$, what is the output?",$0$
