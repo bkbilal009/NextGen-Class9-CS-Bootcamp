@@ -1,0 +1,55 @@
+"In computer systems, what is defined as an unusual or irregular event that disturbs system performance?",A problem.
+What is the basic three-part process used to manage system problems?,"Identify, diagnose, and solve."
+Which troubleshooting category deals with physical components like RAM or hard drives?,Hardware troubleshooting.
+Which troubleshooting category focuses on issues within the operating system or installed applications?,Software troubleshooting.
+What term refers to the process of turning on a computer or laptop?,Booting.
+"If a computer's CPU is running too hot, what substance might need to be reapplied to help cool it?",Thermal paste.
+What hardware component is a common suspect when a computer turns on but displays a black screen?,RAM (Random Access Memory).
+The first step of the seven-step troubleshooting process is to _____.,identify the problem.
+What is Step 2 in the seven-step troubleshooting model?,Establish a theory of probable cause.
+What is the purpose of Step 3 in the seven-step troubleshooting process?,Test the theory to determine the cause.
+Step 4 of the troubleshooting process involves establishing a _____ to resolve the problem.,plan of action.
+What is Step 5 of the seven-step troubleshooting model?,Implement the solution.
+"After applying a fix, what must be done in Step 6 of the troubleshooting process?",Verify full system functionality.
+What is the final step (Step 7) of the troubleshooting process?,"Document findings, actions, and outcomes."
+Why is Step 7 (Documentation) important for long-term system maintenance?,It saves time and costs by providing a reference for similar future problems.
+"According to the source, which of the seven troubleshooting steps belongs to the 'Identification' procedure?",Step 1.
+Which troubleshooting steps (2 through 4) are grouped under the 'Diagnosis' procedure?,"Establish a theory, test the theory, and plan the action."
+"Steps 5, 6, and 7 of the troubleshooting model are collectively known as _____.",applying strategies or implementation.
+Concept: Application Troubleshooting.,Definition: The process of fixing errors within specific software programs like Excel or WhatsApp.
+What is the primary role of an Operating System (System Software)?,It manages system resources and allows application software to run successfully.
+Name three system resources typically managed by an Operating System.,"Memory, processing power, and security."
+Term: Safe Mode.,Definition: A diagnostic mode that starts a program or system with only essential drivers and features enabled.
+What keyboard shortcut is used to open the 'Run' dialog box in Windows?,Windows Key + R.
+What command is typed into the Run dialog box to open Microsoft Excel in Safe Mode?,excel /safe
+How does Safe Mode help troubleshoot application crashes?,It determines if the problem is caused by non-essential drivers or complex graphical features.
+What is 'Down Time' in a professional computer environment?,"A period when the system is non-functional, leading to a halt in productivity."
+Term: Data Integrity.,"Definition: The assurance that data is accurate, reliable, and has not been corrupted or damaged."
+"In the context of computer security, what does 'Confidentiality' ensure?",That only authorized persons can access specific data.
+"In computer security, 'Availability' means that data is _____.",accessible to authorized users whenever it is demanded.
+How does the troubleshooting process improve system security?,By identifying and removing vulnerabilities or weak points in the system.
+Regularly troubleshooting hardware like cooling fans helps extend _____.,equipment life.
+What is the fundamental difference between Troubleshooting and Preventive Maintenance?,"Troubleshooting occurs after a failure, while Preventive Maintenance occurs before to prevent failure."
+Cleaning dust from internal components and checking cables are examples of _____ maintenance.,hardware preventive.
+Regularly updating the Operating System and scanning for viruses are examples of _____ maintenance.,software preventive.
+Term: Malware.,"Definition: Malicious software designed to damage, disrupt, or gain unauthorized access to computer resources."
+What defines a computer 'Virus'?,A malicious program that spreads from one system to another specifically through file transfers.
+How does a 'Worm' spread differently than a virus?,It spreads automatically across a network without requiring human action or file sharing.
+What is 'Ransomware'?,A type of malware that locks a user's data and demands payment for the decryption key.
+What is the function of a Firewall?,It records network activity and prevents unauthorized external users from accessing a system.
+Why is USB scanning considered an important preventive maintenance step?,Because malware and viruses often spread via portable storage devices.
+Term: Data Backup.,Definition: Creating and storing a copy of data in a separate location to prevent loss.
+What is a 'Full Backup'?,"A complete, manual copy of all data from a system onto a storage device."
+How does an 'Incremental Backup' differ from a full backup?,It only updates and saves the data that has changed since the previous backup.
+What is 'Cloud Backup'?,Storing data copies on remote servers managed by online services like Google Drive or OneDrive.
+"The security concepts of Confidentiality, Integrity, and Availability are often called the _____.",CIA triad.
+What are 'vulnerabilities' in computer systems?,Weak points that hackers exploit to cause data loss or security breaches.
+"If a monitor has no display but the PC is on, which cable should be checked for a secure connection?",The HDMI (or display) cable.
+Unexpected 'pop-ups' and 'unknown programs' running are common symptoms of a _____.,virus or malware infection.
+"Why is it useful to store backups in multiple locations (e.g., both offline and online)?",To ensure data can be recovered even if one storage medium fails.
+"If a theory of probable cause is tested and proven wrong in Step 3, the technician should _____.",return to Step 2 to establish a new theory.
+Concept: Resource Management.,Definition: The OS task of allocating memory and processing power to ensure applications run smoothly.
+A user experiencing irregular router lights and no internet should first try _____.,restarting the router.
+Why is 'User Experience' improved by regular system troubleshooting?,It prevents recurring crashes and ensures software features respond correctly when used.
+The process of verifying a fix (Step 6) is intended to ensure that the solution ____.,actually resolved the problem without creating new issues.
+What software tool is used to scan and remove malicious files from a computer?,Antivirus software.
