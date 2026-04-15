@@ -1,0 +1,76 @@
+What three-step process defines troubleshooting in a computer context?,"Identifying the problem, diagnosing the cause, and applying strategies to solve it."
+Which phase of troubleshooting involves determining the underlying reason for an identified problem?,The diagnosis phase.
+What is the primary symptom of a power connectivity issue in a desktop or laptop?,The system fails to turn on and displays a blank screen.
+Step 1 for power issues: Check _____.,Power cables (such as HDMI or power supply cords).
+"In hardware troubleshooting, what is the purpose of using a 'working cable'?",To determine if the original cable is faulty by replacing it with a known functional one.
+What is a 'power cycle' in computer troubleshooting?,Holding the power button for 30 seconds to remove residual electricity from the PC.
+How long should you hold a computer's power button to perform a complete power cycle?,30 seconds.
+Term: Peripheral Devices,"Definition: External hardware components attached to a computer system, such as a mouse, keyboard, or printer."
+"Which type of troubleshooting involves addressing physical components like cables, RAM, or fans?",Hardware troubleshooting.
+What is the first sign of a 'Startup Failure' related to the motherboard?,Hearing specific beep codes during the boot process.
+What does a 'Beep with no video' signal usually indicate during startup?,A memory (RAM) issue.
+A sequence of three beeps (one long and two short) typically indicates an issue with _____.,Hardware.
+What does the acronym BIOS stand for?,Basic Input Output System.
+What occurs during the BIOS stage of the computer startup process?,The system identifies and connects to hardware and input-output devices.
+"If a system is stuck at the BIOS screen, what physical action regarding RAM might resolve it?",Reseating the RAM (removing and reattaching it).
+What specific hardware component updates and maintains the system's date and time?,The CMOS battery.
+What is a common symptom of a failing storage device during system boot?,The error message 'Operating System (OS) Not Found' appears.
+Concept: Operating System (OS),"Definition: Software that manages system resources like memory, performance, and security while bridging hardware and software."
+Why might a computer's performance slow down significantly if a storage drive is failing?,The system struggles to read or write data to the corrupted or failing hardware.
+What physical symptom is unique to failing mechanical Hard Disk Drives (HDDs)?,Unusual clicking or grinding noises.
+What is the most critical first step when you suspect a storage device failure?,Back up all important data to an external location immediately.
+What can happen to a computer system if it becomes 'Too Hot' or overheats?,The system may suddenly shut down or the fans will spin at maximum speed with loud noise.
+How does applying thermal paste help prevent computer overheating?,It improves heat transfer between components to prevent them from reaching critical temperatures.
+Which Windows tool can be used to monitor the temperature and performance of the CPU and GPU?,Task Manager.
+Term: RAM (Random Access Memory),Definition: Temporary memory used to store data currently being processed by the system.
+What does the 'Blue Screen of Death' (BSOD) indicate in a Windows environment?,A critical system crash that forces an immediate restart.
+"When troubleshooting multiple RAM sticks, why should you test them one at a time?",To isolate exactly which RAM stick is faulty and causing the system to crash.
+Where in Windows can you check the status of peripheral devices and their drivers?,Device Manager.
+"If a mouse fails to work in one USB port, why should you try it in another port?",To determine if the issue is with the mouse itself or a faulty USB port.
+Concept: Hardware Driver,Definition: Software that enables the operating system to communicate with and control specific hardware devices.
+What is a common symptom of a faulty or missing sound driver?,The system produces no audio output despite the speakers being connected.
+Describe the 'Rule of Elimination' in hardware troubleshooting.,Remove all components and then reattach essential ones one-by-one to identify the fault.
+"In the Rule of Elimination, should you attach peripheral devices first or last?",Last (after essential components like RAM and GPU are tested).
+What are two common causes of software-level troubleshooting issues?,Corrupted files and software bugs.
+What should be the first action taken if an application like WhatsApp freezes or crashes?,Use Task Manager to end the process and then restart the application.
+Term: Cache Memory,"Definition: A small, high-speed memory that stores frequently accessed data for quick retrieval."
+Why can clearing the cache resolve issues with an app that is running slowly or freezing?,It removes corrupted temporary data that may be interfering with the app's performance.
+What should you do if clearing the cache does not fix a persistent application error?,Reinstall the application.
+How can missing Operating System updates affect a computer's performance?,It can lead to slow performance and increased vulnerability to system errors.
+What does the 'System Restore' feature do?,It reverts the operating system settings to a previous state before a specific problem occurred.
+"If a screen is flickering or Wi-Fi is failing, which software component should be checked first?",The device drivers.
+Concept: Malware,Definition: An external agent or attack that compromises system resources and slows down performance.
+What is a common browser-based symptom of a malware attack?,"The appearance of frequent, unwanted pop-ups."
+Why is 'offline scanning' recommended for removing stubborn malware?,It disconnects the internet to prevent the malware from communicating with external servers during removal.
+What is a likely cause for a system lagging when performing small tasks despite having a fast CPU?,Insufficient RAM or too many background applications running simultaneously.
+What is the benefit of 'defragmenting' an old mechanical hard drive?,It reorganizes fragmented files to allow the software to access data more quickly.
+What are TCP/IP and IP in the context of network troubleshooting?,Network protocols (Transmission Control Protocol and Internet Protocol) that manage data transfer.
+What is the purpose of running network reset commands in the Command Prompt (CMD)?,To reset the system's network protocols and its internal connection map.
+"In the software troubleshooting hierarchy, what is the step taken after restarting the PC?",Updating the software.
+"In the software troubleshooting hierarchy, what is the step taken after updating the software?",Reinstalling the software.
+Why is reinstalling Windows considered the 'last resort' in the troubleshooting hierarchy?,Because it results in the loss of all data stored on the system partition.
+Which Windows tool shows exactly how much processing power each open app is using?,Task Manager.
+"If a printer fails to print a document sent from a PC, is it more likely a hardware or driver issue if the printer is on?",A driver issue (the software bridge is broken).
+What does the BIOS do immediately before the Windows home screen appears?,It completes the connection of hardware devices to the system.
+Which component should be replaced if the system clock resets every time the computer is turned off?,The CMOS battery.
+What is 'corrupted data' in the context of application failure?,"Data that has become unreadable or damaged, preventing software from functioning correctly."
+"When using Task Manager, which tab provides a visual graph of CPU and Memory usage?",The Performance tab.
+How does dust affect computer hardware over time?,"It clogs fans and components, leading to overheating and system lag."
+True or False: You should reinstall Windows immediately if a single app like WhatsApp stops working.,False (it is the last resort).
+What does a 'DNS error' signify during network troubleshooting?,The system cannot resolve a website's domain name into an IP address.
+Which troubleshooting level addresses problems within the Windows environment itself?,Operating System (OS) troubleshooting.
+What is the recommended tool for performing a basic virus scan in Windows?,The pre-built Windows Antivirus/Windows Defender scan.
+What is the main difference between a Hard Disk Drive (HDD) and RAM?,"HDD provides long-term storage, while RAM provides temporary storage for active tasks."
+"In troubleshooting, what does 'Diagnosing' a problem actually mean?",Investigating to find the specific cause or source of the issue.
+Which command-line interface is used to run administrator-level system repairs in Windows?,Command Prompt (CMD) run as Administrator.
+Why is a 'blank screen' during boot often a sign of a connectivity issue rather than a software bug?,Because software bugs usually appear after the system successfully powers on and starts the OS.
+Which internal component might be loose if the computer's fan spins but there is no display?,The RAM or GPU.
+The process of organizing files on a disk to improve read/write speed is called _____.,Defragmentation.
+What should you check first if your internet is connected but you cannot access any websites?,DNS settings or network protocols.
+What is the primary goal of the 'Rule of Elimination'?,To simplify a complex problem by stripping the system down to its most basic parts.
+What does the 'S' in BIOS stand for?,System.
+"If an app freezes, why is it better to use Task Manager than to force-restart the whole PC?",Task Manager allows you to close only the faulty app without losing unsaved work in other applications.
+Where can a user typically find the option to 'Clear Cache' in a mobile app?,Within the app's settings or the phone's application manager.
+What is the logical order of the Troubleshooting Hierarchy (from first to last)?,Restart App -> Restart PC -> Update Software -> Reinstall Software -> Reinstall OS.
+What is an 'Unusual Event' in computer literacy terms?,"Any unexpected behavior that degrades a computer's performance, signaling a need for troubleshooting."
+Concept: Hardware Redundancy (Cables),"Definition: Keeping extra, functional cables to test and replace faulty ones during troubleshooting."
